@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Pluto",
+    "surface_water": 88,
+    "population": 3
+  },
+  {
+    "id": 2,
+    "name": "Jupiter",
+    "surface_water": 45,
+    "population": 0
+  }
+]
